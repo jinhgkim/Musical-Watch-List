@@ -1,0 +1,12 @@
+{"musicals": [
+    {
+        "ticket": 180,
+        "theater": "theater2",
+        "title": "Rent"
+    },
+    {
+        "ticket": 220,
+        "theater": "theater3",
+        "title": "Hamilton"
+    }
+]}

@@ -1,0 +1,17 @@
+{"musicals": [
+    {
+        "ticket": 110,
+        "theater": "Queen Elizabeth Theater",
+        "title": "Come from away"
+    },
+    {
+        "ticket": 150,
+        "theater": "Theater Under The Stars",
+        "title": "Chicago"
+    },
+    {
+        "ticket": 200,
+        "theater": "The Stanley Industrial Alliance Stage",
+        "title": "Phantom of the Opera"
+    }
+]}

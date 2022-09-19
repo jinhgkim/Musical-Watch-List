@@ -1,0 +1,19 @@
+{
+  "musicals": [
+    {
+      "title": "The Phantom of the Opera",
+      "theater": "Queen Elizabeth Theater",
+      "ticket": 120
+    },
+    {
+      "title": "The Lion King",
+      "theater": "Theater Under The Stars",
+      "ticket": 150
+    },
+    {
+      "title": "Kinky Boots",
+      "theater": "The Stanley Industrial Alliance Stage",
+      "ticket": 200
+    }
+  ]
+}
